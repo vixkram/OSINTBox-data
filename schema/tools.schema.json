@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["category", "tools"],
+    "properties": {
+      "category": { "type": "string", "minLength": 1 },
+      "tools": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["name", "url"],
+          "properties": {
+            "name": { "type": "string", "minLength": 1 },
+            "url": { "type": "string", "format": "uri" },
+            "description": { "type": "string", "minLength": 1 },
+            "icon": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}
+

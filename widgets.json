@@ -1,0 +1,21 @@
+{
+  "worldClock": {
+    "title": "WORLD CLOCK",
+    "hour12": false,
+    "cities": [
+      { "name": "UTC", "tz": "UTC" },
+      { "name": "New York", "tz": "America/New_York" },
+      { "name": "London", "tz": "Europe/London" },
+      { "name": "Dubai", "tz": "Asia/Dubai" },
+      { "name": "Mumbai", "tz": "Asia/Kolkata" },
+      { "name": "Singapore", "tz": "Asia/Singapore" },
+      { "name": "Sydney", "tz": "Australia/Sydney" }
+    ]
+  },
+  "redditNews": {
+    "title": "NEWS FROM REDDIT",
+    "subreddits": ["osint", "OSINTresearch", "netsec", "cybersecurity", "privacy"],
+    "limit": 20
+  }
+}
+

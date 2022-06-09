@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "worldClock": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string" },
+        "hour12": { "type": "boolean" },
+        "cities": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "tz"],
+            "properties": {
+              "name": { "type": "string" },
+              "tz": { "type": "string" }
+            }
+          }
+        }
+      },
+      "required": ["cities"]
+    },
+    "redditNews": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": { "type": "string" },
+        "subreddits": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "limit": { "type": "integer", "minimum": 1, "maximum": 200 }
+      },
+      "required": ["subreddits"]
+    }
+  }
+}
+
