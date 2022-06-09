@@ -65,9 +65,10 @@ fi
 ```json
 {
   "name": "Tool Name",
-  "url": "https://example.com",
-  "description": "Brief description (optional)",
-  "icon": "https://www.google.com/s2/favicons?domain=example.com&sz=64"
+  "url": "https://example.com"
+  // Optional overrides:
+  // "description": "Brief description",
+  // "icon": "https://example.com/favicon.ico"
 }
 ```
 
@@ -86,12 +87,10 @@ fi
 ## 💡 Best Practices
 
 ### ✏️ Writing Guidelines
-- **Descriptions**: Only include if they add clear value beyond the tool name
-- **Icons**: Use favicon URLs for consistency
-  ```
-  https://www.google.com/s2/favicons?domain=example.com&sz=64
-  ```
-- **URLs**: Ensure all links are active and lead to the correct resources
+- **Descriptions**: Only include if they add clear value beyond the tool name (otherwise omit)
+- **Icons**: Usually omit — the UI auto‑generates favicons from the tool domain. Only set `icon` to override.
+  - Do not use third‑party proxies; if needed, use a direct image URL (e.g., the site’s real favicon).
+- **URLs**: Ensure all links are active and lead to canonical pages; remove tracking params
 
 ### 🎯 Quality Standards
 - ✅ Verify tool functionality before adding
@@ -113,8 +112,7 @@ fi
 ## 📞 Support
 
 - 🐛 **Issues**: Report bugs or suggest improvements
-- 💬 **Discussions**: Join community conversations
-- 📖 **Documentation**: Check our wiki for detailed guides
+- 💬 **Discussions**: Open an issue describing the change you propose
 
 ---
 
@@ -126,6 +124,6 @@ Thanks to all contributors who help maintain and expand this valuable OSINT reso
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/your-repo) | [🍴 Fork it](https://github.com/your-repo/fork) | [📝 Contribute](#-contribute)**
+**[⭐ Star this repo](https://github.com/vixkram/OSINTBox-data) | [🍴 Fork it](https://github.com/vixkram/OSINTBox-data/fork) | [📝 Contribute](#-contribute)**
 
 </div>
