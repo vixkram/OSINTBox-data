@@ -12,8 +12,8 @@
 ## 📁 Repository Structure
 
 ```
-├── 📄 tools.json         # Core categories and tools (required)
-├── ⚙️ widgets.json       # Widget configuration (optional)
+├── 📄 tools.json         # Core categories and tools 
+├── ⚙️ widgets.json       # Widget configuration 
 └── 📋 schema/            # JSON schemas for validation
     ├── tools.schema.json
     └── widgets.schema.json
