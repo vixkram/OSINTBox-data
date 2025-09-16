@@ -14,8 +14,7 @@
   },
   "redditNews": {
     "title": "NEWS FROM REDDIT",
-    "subreddits": ["osint", "OSINTresearch", "netsec", "cybersecurity", "privacy"],
+    "subreddits": ["osint", "netsec", "cybersecurity", "privacy", "opsec"],
     "limit": 20
   }
 }
-
