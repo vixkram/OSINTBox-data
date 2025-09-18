@@ -662,6 +662,21 @@
       {
         "name": "osint-cli-tool-skeleton",
         "url": "https://pypi.org/project/osint-cli-tool-skeleton/"
+      },
+      {
+        "name": "Maltego",
+        "url": "https://www.maltego.com/",
+        "description": "Graph link-analysis platform with community transforms covering people, infrastructure, and breaches."
+      },
+      {
+        "name": "SpiderFoot",
+        "url": "https://www.spiderfoot.net/",
+        "description": "Automated OSINT collection framework with 200+ data sources and flexible scanning profiles."
+      },
+      {
+        "name": "Recon-ng",
+        "url": "https://github.com/lanmaster53/recon-ng",
+        "description": "Metasploit-style reconnaissance environment with modular data gathering and reporting."
       }
     ]
   },
@@ -1130,6 +1145,16 @@
       {
         "name": "AccuWeather",
         "url": "https://www.accuweather.com/"
+      },
+      {
+        "name": "Meteostat",
+        "url": "https://meteostat.net/",
+        "description": "Free historical weather and climate data with CSV/JSON export and a Python client."
+      },
+      {
+        "name": "Zoom.Earth",
+        "url": "https://zoom.earth/",
+        "description": "Live weather radar and satellite imagery with storm tracking and wildfire overlays."
       }
     ]
   },
@@ -1203,6 +1228,16 @@
       {
         "name": "APTnotes",
         "url": "https://github.com/aptnotes/data"
+      },
+      {
+        "name": "OpenCTI",
+        "url": "https://www.opencti.io/",
+        "description": "Open-source threat intelligence platform with graph analytics and connectors to dozens of data feeds."
+      },
+      {
+        "name": "MISP",
+        "url": "https://www.misp-project.org/",
+        "description": "Open-source threat intelligence sharing platform (STIX/TAXII) for indicators, events, and collaborative analysis."
       }
     ]
   },
@@ -1476,6 +1511,11 @@
       {
         "name": "Ufind.name",
         "url": "https://ufind.name/"
+      },
+      {
+        "name": "LittleBrother",
+        "url": "https://github.com/lulz3xploit/LittleBrother",
+        "description": "Open-source investigator focusing on French data sources with geocoding and people search modules."
       }
     ]
   },
@@ -1849,6 +1889,16 @@
       {
         "name": "OSINT & SOCMINT Tooling",
         "url": "https://osint.support/chrome-extensions/2019/09/29/osint-socmint-tooling.html"
+      },
+      {
+        "name": "Blackbird",
+        "url": "https://github.com/p1ngul1n0/blackbird",
+        "description": "CLI toolkit to enumerate social media profiles by username across dozens of platforms."
+      },
+      {
+        "name": "Social Analyzer",
+        "url": "https://github.com/qeeqbox/social-analyzer",
+        "description": "Web app and CLI for cross-platform username checks with rich profile parsing."
       }
     ]
   },
@@ -2689,6 +2739,16 @@
       {
         "name": "Mastodon Search Engine",
         "url": "https://cse.google.com/cse?cx=334aec4c3c73ed945"
+      },
+      {
+        "name": "TootFinder",
+        "url": "https://tootfinder.ch/",
+        "description": "Indexed search for Mastodon toots, including posts older than the standard six-month retention."
+      },
+      {
+        "name": "Fediverse Observer",
+        "url": "https://fediverse.observer/",
+        "description": "Discovery and analytics platform tracking Mastodon and ActivityPub instances, growth, and moderation."
       }
     ]
   },
@@ -2727,6 +2787,16 @@
       {
         "name": "steamdb.info/calculator",
         "url": "https://steamdb.info/calculator/"
+      },
+      {
+        "name": "SteamID.uk",
+        "url": "https://steamid.uk/",
+        "description": "Lookup vanity URLs, account bans, VAC history, and related identifiers for Steam profiles."
+      },
+      {
+        "name": "SteamRep",
+        "url": "https://steamrep.com/",
+        "description": "Community reputation database highlighting reported scammers and suspicious Steam accounts."
       }
     ]
   },
@@ -3456,6 +3526,11 @@
       {
         "name": "hue.tools",
         "url": "https://hue.tools/"
+      },
+      {
+        "name": "ExifTool",
+        "url": "https://exiftool.org/",
+        "description": "Swiss-army metadata parser supporting EXIF, IPTC, XMP, and GPS tags for forensic workflows."
       }
     ]
   },
@@ -3708,6 +3783,11 @@
       {
         "name": "Maersk Tracking",
         "url": "https://www.maersk.com/tracking/"
+      },
+      {
+        "name": "Global Fishing Watch",
+        "url": "https://globalfishingwatch.org/map/",
+        "description": "Interactive map visualizing AIS data to expose fishing activity, transshipments, and port visits."
       }
     ]
   },
@@ -3906,6 +3986,16 @@
       {
         "name": "FiveThirtyEight",
         "url": "https://fivethirtyeight.com/?s="
+      },
+      {
+        "name": "OCCRP Aleph",
+        "url": "https://aleph.occrp.org/",
+        "description": "Investigation dashboard indexing leaks, corporate records, sanctions, and PEP files from OCCRP and partners."
+      },
+      {
+        "name": "GDELT Project",
+        "url": "https://www.gdeltproject.org/",
+        "description": "Global database capturing news events, tone, and imagery with downloadable datasets and live API endpoints."
       }
     ]
   },
@@ -3998,6 +4088,11 @@
       {
         "name": "GitDorker",
         "url": "https://github.com/obheda12/GitDorker"
+      },
+      {
+        "name": "PublicWWW",
+        "url": "https://publicwww.com/",
+        "description": "Source-code search engine to locate tracking codes, technologies, or snippets across websites."
       }
     ]
   },
@@ -4047,7 +4142,8 @@
       },
       {
         "name": "Shodan",
-        "url": "https://shodan.io/"
+        "url": "https://www.shodan.io/",
+        "description": "Search engine indexing internet-connected devices with powerful filters for exposed services."
       },
       {
         "name": "Internetdb.shodan.io",
@@ -4233,6 +4329,21 @@
       {
         "name": "Netlas.io",
         "url": "https://netlas.io/"
+      },
+      {
+        "name": "dnstwist",
+        "url": "https://github.com/dnstwist/dnstwist",
+        "description": "Domain permutation engine to spot typosquats, phishing hosts, and brand impersonations."
+      },
+      {
+        "name": "OWASP Amass",
+        "url": "https://github.com/owasp-amass/amass",
+        "description": "In-depth attack surface mapping with extensive passive and active subdomain enumeration modules."
+      },
+      {
+        "name": "Sublist3r",
+        "url": "https://github.com/aboul3la/Sublist3r",
+        "description": "Python-based subdomain enumerator leveraging public search engines and certificate transparency logs."
       }
     ]
   },
@@ -4766,6 +4877,26 @@
       {
         "name": "Cesium Stories",
         "url": "https://cesium.com/ion/stories/viewer/?id=8be6f99c-0d4c-46ce-91a3-313e3cac62fe"
+      },
+      {
+        "name": "Sentinel Hub EO Browser",
+        "url": "https://apps.sentinel-hub.com/eo-browser/",
+        "description": "Interactive interface for Sentinel, Landsat, and MODIS imagery with spectral indices and time series."
+      },
+      {
+        "name": "Google Earth Web",
+        "url": "https://earth.google.com/web/",
+        "description": "3D globe with timelapse, street imagery, and annotation tools for geospatial verification."
+      },
+      {
+        "name": "NASA Worldview",
+        "url": "https://worldview.earthdata.nasa.gov/",
+        "description": "Interactive viewer for NASA EOSDIS imagery with 900+ layers and near real-time satellite data."
+      },
+      {
+        "name": "OpenAerialMap",
+        "url": "https://openaerialmap.org/",
+        "description": "Community-driven catalog of drone and aerial imagery available for download and analysis."
       }
     ]
   },
@@ -4840,6 +4971,16 @@
       {
         "name": "geoclustering",
         "url": "https://pypi.org/project/geoclustering/"
+      },
+      {
+        "name": "SunCalc",
+        "url": "https://www.suncalc.org/",
+        "description": "Visualize sun position and shadow projections to estimate timestamps or verify geolocations."
+      },
+      {
+        "name": "MapChecking",
+        "url": "https://www.mapchecking.com/",
+        "description": "Estimate crowd sizes by drawing polygons and applying density presets over interactive maps."
       }
     ]
   },
@@ -4956,6 +5097,11 @@
         "name": "Raklet",
         "url": "http://iwr4usy33opfclmbyemzbmnwwnmmqpqltezpac7fyqqkdv3mabtm6kqd.onion.pet/",
         "description": "Accurately fast search engine"
+      },
+      {
+        "name": "Dark.fail",
+        "url": "https://dark.fail/",
+        "description": "Reliability tracker and directory of Tor hidden services with uptime history and mirrors."
       }
     ]
   },
