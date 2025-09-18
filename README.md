@@ -7,6 +7,8 @@
 [![Contributors](https://img.shields.io/badge/contributors-welcome-blue)](#-contribute)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
+> 🌐 Explore the live OSINTBox directory at [osintbox.shellwriter.com](https://osintbox.shellwriter.com/)
+
 ---
 
 ## 📁 Repository Structure
