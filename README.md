@@ -111,6 +111,14 @@ fi
 
 ---
 
+## 💖 Donate
+
+Help keep the OSINTBox data project maintained.
+
+- BTC: _bc1qlz8thfq9k02y86lr49w5mqty2c93dz4ptjz4cn_
+- ETH: _0x278881E9Edaa585174b1708447B1C07934530ded_
+- LTC: _ltc1q9qr39kdxv3ulmszw48jgp7p8jqq0metdjzxp4m_
+
 ## 📞 Support
 
 - 🐛 **Issues**: Report bugs or suggest improvements
