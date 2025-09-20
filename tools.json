@@ -1298,6 +1298,11 @@
       {
         "name": "Xboxresolver.com",
         "url": "https://xboxresolver.com/"
+      },
+      {
+        "name": "Vedbex DNS Resolver",
+        "url": "https://www.vedbex.com/",
+        "description": "Web-based DNS resolver tool for looking up A, AAAA, CNAME, MX, TXT, NS, PTR, and other DNS records"
       }
     ]
   },
