@@ -2880,6 +2880,11 @@
       {
         "name": "Asia-East Free Email Providers",
         "url": "http://www.fepg.net/asia.HTML"
+      },
+      {
+        "name": "uChecker",
+        "url": "https://uchecker.net/tools",
+        "description": "Bulk email list verification plus 13 free DNS tools (SPF, DKIM, DMARC, BIMI generators and checkers) without registration."
       }
     ]
   },
