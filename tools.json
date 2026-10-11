@@ -2644,6 +2644,11 @@
     "category": "USERNAME",
     "tools": [
       {
+        "name": "Consensus OSINT",
+        "url": "https://github.com/OSINT-Experts-Society/Consensus-OSINT",
+        "description": "Local username lookup with enriched results and evidence graphs; also supports email and phone inputs."
+      },
+      {
         "name": "WhatsMyName Web",
         "url": "https://whatsmyname.app/"
       },
