@@ -3358,6 +3358,11 @@
     "category": "YOUTUBE",
     "tools": [
       {
+        "name": "Arcmira: YouTube Transcript Search",
+        "url": "https://arcmira.com",
+        "description": "Find spoken phrases in indexed videos and podcasts and open the original recording at the matching timestamp. A free account excludes the newest 30 days."
+      },
+      {
         "name": "Invidious Instances",
         "url": "https://docs.invidious.io/instances/"
       },
