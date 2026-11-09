@@ -3358,6 +3358,11 @@
     "category": "YOUTUBE",
     "tools": [
       {
+        "name": "Arcmira: YouTube Transcript Search",
+        "url": "https://arcmira.com",
+        "description": "YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers. A free account excludes the newest 30 days."
+      },
+      {
         "name": "Invidious Instances",
         "url": "https://docs.invidious.io/instances/"
       },
