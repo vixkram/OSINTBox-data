@@ -6183,6 +6183,11 @@
         "url": "https://maps.descarteslabs.com/"
       },
       {
+        "name": "H1DR4 Incident Map",
+        "url": "https://h1dr4.dev/map",
+        "description": "Browse reported crimes and other incidents by location. The public map and source-linked case files are free to browse without an account."
+      },
+      {
         "name": "ArcGIS Wildfire Map",
         "url": "https://www.arcgis.com/home/webmap/viewer.html?webmap=df8bcc10430f48878b01c96e907a1fc3#!"
       },
